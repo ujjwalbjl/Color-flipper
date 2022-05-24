@@ -1,0 +1,31 @@
+.end-items {
+    color: black;
+}
+
+.btn {
+    outline: 2px solid black;
+}
+
+.background-color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 2rem;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 2.8rem;
+}
+
+.main-parts {
+    height: 91.9vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
